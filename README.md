@@ -1,7 +1,7 @@
 # Car-Damage-Detection
 
 
-I've created a program that addresses your car damage assessment task using the dataset with the six classes (F_Normal, F_Crushed, F_Breakage, R_Normal, R_Crushed, R_Breakage). Commenting in depth is added inside the code for assistance.
+I've created a program that addresses your car damage assessment task using the dataset with the six classes (F_Normal, F_Crushed, F_Breakage, R_Normal, R_Crushed, R_Breakage).
 
 
 ## What is included in this repository?
@@ -72,5 +72,5 @@ Visualization: The program provides extensive visualizations to help understand 
 
 
 
-### Your review and comments wil be highly appreciated. Thank you!
+
   
