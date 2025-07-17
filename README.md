@@ -7,11 +7,11 @@ I've created a program that addresses your car damage assessment task using the 
 ## What is included in this repository?
 - A README file
 - Jupyter Notebook consisting of the entire code
-- Google drive link for train and test sets
+- ZIP File for train and test sets
 - A PowerPoint Presentation
 
 ## How to Use
-Download the jupyter notebook and the dataset from the given Google Drive link. Set the paths for train and test sets. Modify these two lines in the first cell of notebook.ipynb if you intend to train and run the model on your machine.  
+Download the jupyter notebook from repository. Then download the dataset zip file from the given Google Drive link and extract it. Set the paths for train and test sets. Modify these two lines in the first cell of notebook.ipynb if you intend to train and run the model on your machine.  
 ```TRAIN_DIR = "D:/Sem 6/ICV/ICV_Project/dataset/train" ```  
 ```TEST_DIR = "D:/Sem 6/ICV/ICV_Project/dataset/test"```  
 
