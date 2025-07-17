@@ -70,7 +70,19 @@ Damage Detection: The model identifies normal vs damaged cars (Crushed, Breakage
 
 Visualization: The program provides extensive visualizations to help understand what features the model is using to make its decisions.
 
+## Information about the dataset
 
+I downloaded raw data from the link below and divided into train and test sets
+https://www.kaggle.com/datasets/samwash94/comprehensive-car-damage-detection
 
+- 80% train
+- 20% test
 
+Here are the details of number of data in each catagory:
+F_Breakage: 500  
+F_Crushed: 400  
+F_Normal: 500  
+R_Breakage: 300  
+R_Crushed: 300  
+R_Normal: 300  
   
