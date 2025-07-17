@@ -8,7 +8,7 @@ I've created a program that addresses your car damage assessment task using the 
 - A README file
 - Jupyter Notebook consisting of the entire code
 - ZIP File for train and test sets
-- A PowerPoint Presentation
+- A Thorough Presentation
 
 ## How to Use
 Download the jupyter notebook from repository. Then download the dataset zip file from the given Google Drive link and extract it. Set the paths for train and test sets. Modify these two lines in the first cell of notebook.ipynb if you intend to train and run the model on your machine.  
